@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Next.js build output
+.next/
+
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
