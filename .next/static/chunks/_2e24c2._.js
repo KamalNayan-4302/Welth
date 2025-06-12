@@ -454,7 +454,7 @@ function AccountCard({ account }) {
         columnNumber: 5
     }, this);
 }
-_s(AccountCard, "mx4ZTkWgnRIy0aVRw41bMRlIvV0=", false, function() {
+_s(AccountCard, "04CPONYRZj6Vp/c+HLYjNcKC89A=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$use$2d$fetch$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
     ];
@@ -1365,7 +1365,7 @@ function CreateAccountDrawer({ children }) {
         columnNumber: 5
     }, this);
 }
-_s(CreateAccountDrawer, "kwdvSbRlqEXkE9WJKARnLdkh+aA=", false, function() {
+_s(CreateAccountDrawer, "VAdtY/8qtycalRwqX9RA9vT2JaM=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$hook$2d$form$2f$dist$2f$index$2e$esm$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useForm"],
         __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$use$2d$fetch$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
@@ -1665,7 +1665,7 @@ function BudgetProgress({ initialBudget, currentExpenses }) {
         columnNumber: 5
     }, this);
 }
-_s(BudgetProgress, "1fpTQdJItEwyQKBWsBthkuB+mok=", false, function() {
+_s(BudgetProgress, "hf16jbJl0Hvi7ZVhjgHZrP4dZ6E=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$use$2d$fetch$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
     ];

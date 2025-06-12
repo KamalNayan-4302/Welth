@@ -11,7 +11,7 @@
         "app/(main)/dashboard/page": "rsc"
       }
     },
-    "0000a0ec88ad43a2363f0019fe4e2321d1a6048ad0": {
+    "7f242e7ea905a8dc9d2da24f9e149b6ff779d9882b": {
       "workers": {
         "app/(main)/dashboard/page": {
           "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
@@ -19,7 +19,7 @@
         }
       },
       "layer": {
-        "app/(main)/dashboard/page": "rsc"
+        "app/(main)/dashboard/page": "action-browser"
       }
     },
     "40bba72744231a7906a5ebe73c1ec29fca0843438d": {
@@ -33,7 +33,18 @@
         "app/(main)/dashboard/page": "action-browser"
       }
     },
-    "7f242e7ea905a8dc9d2da24f9e149b6ff779d9882b": {
+    "0000a0ec88ad43a2363f0019fe4e2321d1a6048ad0": {
+      "workers": {
+        "app/(main)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/dashboard/page": "rsc"
+      }
+    },
+    "40ee969ca431ff02b7ecbdf4f8bb35d37a216bebc6": {
       "workers": {
         "app/(main)/dashboard/page": {
           "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
@@ -55,7 +66,7 @@
         "app/(main)/dashboard/page": "rsc"
       }
     },
-    "407d28f807a5c31cd9587d74f48a1578cb5279fbeb": {
+    "40f4259b151a0829061e10fbaf2e8a65cc54680325": {
       "workers": {
         "app/(main)/dashboard/page": {
           "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
@@ -77,18 +88,7 @@
         "app/(main)/dashboard/page": "action-browser"
       }
     },
-    "40ee969ca431ff02b7ecbdf4f8bb35d37a216bebc6": {
-      "workers": {
-        "app/(main)/dashboard/page": {
-          "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/(main)/dashboard/page": "action-browser"
-      }
-    },
-    "40f4259b151a0829061e10fbaf2e8a65cc54680325": {
+    "407d28f807a5c31cd9587d74f48a1578cb5279fbeb": {
       "workers": {
         "app/(main)/dashboard/page": {
           "moduleId": "[project]/.next-internal/server/app/(main)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/dashboard.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/budget.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/actions/account.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
